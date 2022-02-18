@@ -1,0 +1,6 @@
+{
+    "token": "TOKEN",
+    "prefix": "+", 
+    "mod": "identifiant du role staff | Le rôle staff pourra Accepter/Refuser des suggestions et il sera ping lors d'une nouvelle suggestion. 'Il n'est pas obligatoire'",
+    "suggest": "identifiant du salon suggestion"
+}

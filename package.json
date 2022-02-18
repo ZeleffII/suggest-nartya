@@ -1,0 +1,18 @@
+{
+  "name": "suggest-nartya",
+  "version": "1.8.0",
+  "description": "Suggestion basic system, by Zeleff_",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zeleff_",
+  "license": "ISC",
+  
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security"
+  }
+
+}
