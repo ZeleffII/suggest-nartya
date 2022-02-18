@@ -157,7 +157,7 @@ module.exports.run = async (client, message, args, prefix) => {
             // Embed : Refuser
             i.message.edit({ embeds: [refuseSuggest.setFooter({ text: `❌ Refusée par ${i.user.username}` })], components: [row1] })
             // Envoie d'un message privé à l'utilisateur 
-            message.author.send({ content: `❌ Votre suggestion sur **${message.guild.name}** à été **regusée** !` })
+            message.author.send({ content: `❌ Votre suggestion sur **${message.guild.name}** à été **refusée** !` })
         }
 
     })
